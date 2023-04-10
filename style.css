@@ -21,7 +21,7 @@
     border: 0;
     box-sizing: border-box;
     text-decoration: none;
-    line-height: calc(1em + 0.6rem);
+
 }
 
 
@@ -43,6 +43,7 @@ p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     color: var(--clr-dark-grayish-blue);
+    line-height: calc(1em + 0.6rem);
 }
 
 
@@ -50,6 +51,7 @@ h1 {
     font-family: 'Fraunces', serif;
     color: var(--clr-very-dark-blue);
     letter-spacing: -0.5px;
+    line-height: calc(1em + 0.2rem);
 }
 
 
@@ -92,6 +94,7 @@ h1 {
 }
 
 .first-text {
+    font-size: 12px;
     letter-spacing: 4px;
     padding: 0 0 1em 0;
 }
