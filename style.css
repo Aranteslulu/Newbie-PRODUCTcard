@@ -196,6 +196,10 @@ a:hover {
     .luiza {
         padding-bottom: 20px;
     }
+
+    .btn {
+        padding: 2.5em 0 0 0;
+    }
 }
 
 @media (max-width: 590px) {
